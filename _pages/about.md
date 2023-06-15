@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+冯昌森，男，1990年出生，浙江工业大学信息工程学院特聘副教授。2019年博士毕业于浙江大学，曾在美国伊利诺伊理工和丹麦科技大学进行交流访问，主要研究电力系统运行与控制，深度强化学习，博弈论，优化与控制算法等。目前主要研究分布式算法，联邦学习，以及模型辅助学习机制。作为负责人主持国家级项目1项，省部级项目1项，参与多项国家级项目，在国内外期刊发表SCI/EI论文20余篇。现担任IEEE PES电力系统动态技术委员会常务委员。
 
 A data-driven personal website
 ======
