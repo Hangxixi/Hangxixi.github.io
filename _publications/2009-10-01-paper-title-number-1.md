@@ -8,6 +8,5 @@ venue: 'Journal 1'
 paperurl: 'http://Hangxixi.github.io/files/含电动汽车和电转气的园区能源互联网能源定价与管理.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-[Download paper here](http://Hangxixi.github.io/files/含电动汽车和电转气的园区能源互联网能源定价与管理.pdf)
 
 
